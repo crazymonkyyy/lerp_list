@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"monkyyy"
+	],
+	"copyright": "Copyright © 2020, monkyyy",
+	"dependencies": {
+		"raylib-d": "~>3.1.0"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "raylib",
+  "libs": [ "raylib" ],
+  "dflags":["-mixin=mix", "-J=./source"],
+  "extraDependencyFiles":["*.mix"],
+}

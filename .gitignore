@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/particals
+particals.so
+particals.dylib
+particals.dll
+particals.a
+particals.lib
+particals-test-*
+*.exe
+*.o
+*.obj
+*.lst
