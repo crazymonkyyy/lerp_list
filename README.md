@@ -3,4 +3,4 @@ A data structure that returns lerps between an appendable list of keys, with ran
 
 For syntax look at app.d, to setup copy and paste lerpdata into your project.
 
- ![lerptest.gif][lerptest.gif]
+ ![lerptest.gif](./lerptest.gif)
